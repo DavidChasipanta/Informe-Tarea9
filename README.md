@@ -179,13 +179,15 @@ de resonancia cuando Vent  50 V?
 
 
 
-
-
-
-
 # **4.VIDEOS**
 
 
 # **5.CONCLUSIONES**
 
+* Por medio del presente trabajo permitió aplicar los métodos ya conocidos sobre las recistencias, inductores y los capacitores en un circuito electrico RLC, tanto en serie como el paralelo o mixtos.
+
+* La resolución de circuitos eléctricos con capacitores, inductores y resistencias, otorgó resultados confiables ya que fueron relacionados con los con simuladores virtuales, cada circuito reporto valores importantes que permitieron entender los valores y así brindar un análisis correcto, por lo tanto llegamos a comprender la aplicación del actual tema tratado. 
+
 # **6.BIBLÍOGRAFIA**
+
+Floyd,T. L. (2007). Principios de circuitos electricos. Mexico: Octava Edicion.
