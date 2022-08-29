@@ -37,13 +37,13 @@ SECCIÓN 17–2 Análisis de circuitos RLC en serie
 
 6. Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.
 
-![image](https://user-images.githubusercontent.com/105617383/187316099-14513cfc-1005-45fc-8e5c-f21064d5ce66.png
+![image](https://user-images.githubusercontent.com/105617383/187316099-14513cfc-1005-45fc-8e5c-f21064d5ce66.png)
 
 SECCIÓN 17–3 Resonancia en serie
 
 8. Para el circuito de la figura 17-59, ¿es la frecuencia resonante más alta o más baja que el valor indicado por los valores de reactancia?
 
-![image](https://user-images.githubusercontent.com/105617383/187316099-14513cfc-1005-45fc-8e5c-f21064d5ce66.png
+![image](https://user-images.githubusercontent.com/105617383/187316099-14513cfc-1005-45fc-8e5c-f21064d5ce66.png)
 
 10. En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante
 
@@ -160,6 +160,22 @@ SECCIÓN 18–3 Filtros pasabanda
 18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Æ, determine el ancho de banda para cada filtro.
 
 ![image](https://user-images.githubusercontent.com/105617383/187317410-8fcc3d6b-939b-4acb-8ff5-ee0f006648f3.png)
+
+20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW
+
+22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW  0 Æ para cada bobin
+
+![image](https://user-images.githubusercontent.com/105617383/187317577-5eafe8fa-3a9d-427d-800a-f40b802c902d.png)
+
+
+24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
+
+![image](https://user-images.githubusercontent.com/105617383/187317656-68e1e8f0-0d12-4a3c-a389-ae2670317b28.png)
+
+26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Æ, ¿cuál es el voltaje de salida en condición
+de resonancia cuando Vent  50 V?
+
+![image](https://user-images.githubusercontent.com/105617383/187317750-b3c15086-e1d2-4187-b056-3a541d823a77.png)
 
 
 
