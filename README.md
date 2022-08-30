@@ -135,31 +135,47 @@ SECCIÓN 18–1 Filtros pasabajas
 2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias
 se les permite pasar y cuáles son rechazadas:
 
+![image](https://user-images.githubusercontent.com/105617383/187328104-ce67b3dc-a671-42b5-ab6c-2f1d3ade127c.png)
+
 4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent 
 
 ![image](https://user-images.githubusercontent.com/105617383/187317161-b3f77867-7373-4b59-8081-310e8bfb1eca.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187328051-76d386ae-1ea6-4c7f-b911-67e966dcfb7e.png)
 
 6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40.
 
 ![image](https://user-images.githubusercontent.com/105617383/187317197-5eb1e645-2373-40f9-8b62-11f89ad95f2d.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187328036-aee7f9eb-0770-4203-b8e1-5049144033ed.png)
+
 8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB:
+
+![image](https://user-images.githubusercontent.com/105617383/187328015-b27b29e3-62d4-4ea8-9146-8536c846d222.png)
 
 10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB
 en las siguientes frecuencias (fc  1 kHz):
 
+![image](https://user-images.githubusercontent.com/105617383/187328004-e3f523db-f05b-4568-b09a-d757d63da73a.png)
+
 SECCIÓN 18–2 Filtros pasaaltas
 
 12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
+
+![image](https://user-images.githubusercontent.com/105617383/187327947-2b67e7ab-909c-4738-9f02-0552ddf4b883.png)
 
 14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent 
 10 V).
 
 ![image](https://user-images.githubusercontent.com/105617383/187317306-fb72640a-bebc-4737-84ac-52ef0f979a84.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187327912-e283f5b2-156c-4343-ab69-8bbbdf46d777.png)
+
 16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
 
 ![image](https://user-images.githubusercontent.com/105617383/187317334-63bd459b-2f98-492f-901b-1ba84a9a19c9.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187327897-db8d439d-a805-411b-81a5-31f8fc45c952.png)
 
 SECCIÓN 18–3 Filtros pasabanda
 
@@ -167,22 +183,30 @@ SECCIÓN 18–3 Filtros pasabanda
 
 ![image](https://user-images.githubusercontent.com/105617383/187317410-8fcc3d6b-939b-4acb-8ff5-ee0f006648f3.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187327841-e687bdb5-f53d-4963-a09f-9a60226652cd.png)
+
 20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW
+
+![image](https://user-images.githubusercontent.com/105617383/187327874-607eaca0-732d-43ce-b5a7-b3e9fd5c1840.png)
 
 22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW  0 Æ para cada bobin
 
 ![image](https://user-images.githubusercontent.com/105617383/187317577-5eafe8fa-3a9d-427d-800a-f40b802c902d.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187327821-8b15817f-f81d-4360-8d7d-174fdfc07ca8.png)
 
 24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
 
 ![image](https://user-images.githubusercontent.com/105617383/187317656-68e1e8f0-0d12-4a3c-a389-ae2670317b28.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187327734-7501ec52-0a2f-407d-8026-0af320a29615.png)
 
 26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Æ, ¿cuál es el voltaje de salida en condición
 de resonancia cuando Vent  50 V?
 
 ![image](https://user-images.githubusercontent.com/105617383/187317750-b3c15086-e1d2-4187-b056-3a541d823a77.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187327716-bc7dd1c0-c503-4404-958a-a954901f06dc.png)
 
 
 # **4.VIDEOS**
