@@ -52,17 +52,25 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/187316099-14513cfc-1005-45fc-8e5c-f21064d5ce66.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187344135-dfb28c86-49fd-49ba-916e-5f5ef2452917.png)
+
 **10. En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante**
 
 ![image](https://user-images.githubusercontent.com/105617383/187316246-b04db508-1dc0-40bf-bd38-e01023aad1f7.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187344202-492ba757-b7f5-490b-87cb-74af3e9cd5fb.png)
 
 **12. Para el circuito RLC de la figura 17-62, determine la frecuencia resonante**
 
 ![image](https://user-images.githubusercontent.com/105617383/187316293-73e6f715-25c6-4dd4-a369-4f5881a2c7be.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187344218-de604130-8306-4e71-8b45-f0bf5d25b260.png)
+
 **14. En la figura 17-62, determine el ángulo de fase entre el voltaje aplicado y la corriente a las frecuencias críticas. ¿Cuál es el ángulo de fase en condición de resonancia?**
 
 ![image](https://user-images.githubusercontent.com/105617383/187316340-a48ab33f-d0ea-4572-8d88-832e2f3e8d29.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187344249-874ccfe9-3a97-4c24-80f2-b51f277ae04f.png)
 
 **PARTE 2: CIRCUITOS EN PARALELO**
 
@@ -72,9 +80,15 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/187316392-3cbdd608-21a4-4318-8c7b-a82646f4ba90.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187344263-dcbd14d3-cc46-4619-aa78-6bb7f7308462.png)
+
 **18. ¿A qué frecuencia el circuito de la figura 17-63 cambia su característica reactiva (de inductiva a capacitiva o viceversa)?**
 
 ![image](https://user-images.githubusercontent.com/105617383/187316392-3cbdd608-21a4-4318-8c7b-a82646f4ba90.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187344294-300f0859-45b5-4e60-bcab-0c815b0c3a48.png)
+
+Puesto que Xc < Xl, el circuito en paralelo es predenominantemente capacitivo. La reactancia más pequeña en un circuito paralelo domina la respuesta del circuito ya que tiene mayor corriente.
 
 **SECCIÓN 17–5 Análisis de circuitos RLC en paralelo**
 
@@ -82,13 +96,19 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/187316392-3cbdd608-21a4-4318-8c7b-a82646f4ba90.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187344601-5bb1b4a8-8d81-447d-ba22-bed3918bf5cc.png)
+
 **SECCIÓN 17–6 Resonancia en paralelo**
 
 **22. ¿Cuál es la impedancia de un circuito resonante ideal dispuesto en paralelo (sin resistencia en las ramas)?**
 
+* Dado que la corriente es total es de cero, la impedancia total del circuito LC en paralelo es infinitamente grande, es decir la impedancia es máxima a la frecuencia resonante y disminuye a frecuencias más bajas y más altas.
+
 **24. ¿Cuánta corriente se extrae de la fuente de la figura 17-64 en condición de resonancia? ¿Cuáles son las corrientes inductiva y capacitiva en la frecuencia resonante?**
 
 ![image](https://user-images.githubusercontent.com/105617383/187316523-10544731-0168-47a3-ad02-a3ae3d1a1286.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187344687-10ee72a5-a2cb-4317-a0f8-260098840002.png)
 
 **PARTE 3: CIRCUITOS EN SERIE-PARALELO**
 
@@ -98,25 +118,46 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/187316597-1082f6fd-32d0-4118-8163-2d2ff8c28c0a.png)
 
+**a)**
+
+![image](https://user-images.githubusercontent.com/105617383/187344721-2139e096-6f00-4d07-8b08-76284def1ab6.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/105617383/187344738-f6f48d4d-fcfb-4b37-9692-12cde8d9259a.png)
+
 **28. Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en forma polar**
 
 ![image](https://user-images.githubusercontent.com/105617383/187316645-684bb2cf-2479-49f0-b43e-e1b5777e7d84.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187344796-e05fc913-8f44-4646-888e-908b47ecdf88.png)
 
 **30. ¿Cuál es la corriente a través de R2 en la figura 17-67?**
 
 ![image](https://user-images.githubusercontent.com/105617383/187316668-5d67c884-9783-49f9-9e84-3abdbfef8038.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187344837-fb8d2b0b-6f5e-45d7-a22b-9cf5142f6d1a.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187344857-992044a8-1c6a-4818-b462-c45b09fa1d7f.png)
+
+
 **32. Determine la resistencia y la reactancia totales en la figura 17-68.**
 
 ![image](https://user-images.githubusercontent.com/105617383/187316703-4048171c-406f-4c81-90ef-29df835bd838.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187344880-974a3d16-7669-4012-aa84-caa2f0e2800d.png)
 
 **34. Determine si existe un valor de C que hará Vab = 0 V en la figura 17 -69. Si no lo hay, explique la razón.**
 
 ![image](https://user-images.githubusercontent.com/105617383/187316733-3418dd7f-7ab7-45f2-a306-a2518e039ecb.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187344907-1067a71d-3c10-41cd-8ab8-d76b16e415f8.png)
+
 **36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?**
 
 ![image](https://user-images.githubusercontent.com/105617383/187316788-edd6c2c3-9bea-4bf5-8f20-bc1bd0e85cd9.png)
+
+* Hay dos frecuencias resonantes en el circuito ya que, se necesita calcular la frecuencia resonante paralela y en serie.
 
 **38. Diseñe un red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 uH con resistencia de devanado de 5 Ω**
 
