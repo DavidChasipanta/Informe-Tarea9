@@ -254,6 +254,7 @@ Puesto que Xc < Xl, el circuito en paralelo es predenominantemente capacitivo. L
 
 # **4.VIDEOS**
 
+https://youtu.be/9o3kP0aEI6s
 
 # **5.CONCLUSIONES**
 
