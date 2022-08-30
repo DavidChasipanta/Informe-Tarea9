@@ -2,7 +2,7 @@
 # **Objetivos**
 **Objetivo General**
 
-*Conocer sobre los circuitos RCL y resonancia y filtros pasivos mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos"
+* Conocer sobre los circuitos RCL y resonancia y filtros pasivos mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos"
 
 **Objetivo Especifico**
 
@@ -29,15 +29,21 @@ SECCIÓN 17–1 Impedancia de circuitos RLC en serie
 
 ![image](https://user-images.githubusercontent.com/105617383/187316099-14513cfc-1005-45fc-8e5c-f21064d5ce66.png)
 
+![image](https://user-images.githubusercontent.com/105617383/187318135-564c69e3-22e5-40b1-ab07-cad64ae00a44.png)
+
 4. Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Æ
 
 ![image](https://user-images.githubusercontent.com/105617383/187316099-14513cfc-1005-45fc-8e5c-f21064d5ce66.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187318152-32df68be-3152-4cd6-9f3d-2b21a139214e.png)
 
 SECCIÓN 17–2 Análisis de circuitos RLC en serie
 
 6. Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.
 
 ![image](https://user-images.githubusercontent.com/105617383/187316099-14513cfc-1005-45fc-8e5c-f21064d5ce66.png)
+
+![image](https://user-images.githubusercontent.com/105617383/187318346-4eba63ef-cd5d-43ed-8c82-c657415374e1.png)
 
 SECCIÓN 17–3 Resonancia en serie
 
